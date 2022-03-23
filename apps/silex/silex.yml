@@ -26,10 +26,10 @@ keywords:
   - open source
   - webdesign
 screenshots:
-  - imageUrl: 'https://user-images.githubusercontent.com/715377/36344714-bf264de2-141e-11e8-8c87-f698e96d91c9.png'
+  - imageUrl: './editing-in-silex.png'
     caption: 'Silex website builder UI'
-  - imageUrl: 'https://user-images.githubusercontent.com/715377/49300343-3d0e9a00-f4c2-11e8-8b48-f164607bbd75.png'
+  - imageUrl: './silex-dashboard.png'
     caption: 'Silex dashboard with free community templates'
-  - imageUrl: 'https://raw.githubusercontent.com/silexlabs/www.silex.me/gh-pages/assets/silex-ui.gif'
+  - imageUrl: './silex-ui.gif'
     caption: 'Editing a design in Silex website builder'
 
